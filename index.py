@@ -6,7 +6,7 @@ import pyautogui
 import time
 
 import sys
-sys.path.append('/home/pefbrute/.config/autokey/data/My Phrases/Скрипты и прочее1/Библиотеки')
+sys.path.append('./Libraries/')
 from window_manager import manage_window
 from translator_module import translate_text_to_english
 
